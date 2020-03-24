@@ -16,5 +16,7 @@ Cours d'initiation au python pour les collégiens de Gerson
  - exercice 7 : récursivité
  - exercice 8 : théorème de pythagore
 
+![alt text](https://raw.githubusercontent.com/Fraberg/cours-de-python-pour-Gerson/master/Pythagore.png)
+
 **TD 4**
  - exercice 9 : le chiffre de César

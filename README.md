@@ -1,7 +1,6 @@
 # python_class_for_gerson
-Cours d'initiation au python
 
-J'ai créé ces polycopiés pour les collégiens de Gerson
+Cours d'initiation au python pour les collégiens de Gerson
 
 **TD 1**
  - exercice 1 : ton âge en jours
@@ -17,6 +16,5 @@ J'ai créé ces polycopiés pour les collégiens de Gerson
  - exercice 7 : récursivité
  - exercice 8 : théorème de pythagore
 
-**TD 9**
+**TD 4**
  - exercice 9 : le chiffre de César
- 

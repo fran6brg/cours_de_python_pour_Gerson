@@ -1,4 +1,4 @@
-# python_class_for_gerson
+# cours-de-python-pour-Gerson
 
 Cours d'initiation au python pour les collégiens de Gerson
 

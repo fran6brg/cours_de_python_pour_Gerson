@@ -1,5 +1,6 @@
 # python_class_for_gerson
 Cours d'initiation au python
+
 J'ai créé ces polycopiés pour les collégiens de Gerson
 
 **TD 1**
